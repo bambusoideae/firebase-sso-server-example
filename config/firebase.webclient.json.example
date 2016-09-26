@@ -1,0 +1,8 @@
+{
+    "webclient" : { 
+            "apiKey": "<Your_API_KEY>",
+            "authDomain": "<project-id>.firebaseapp.com",
+            "databaseURL": "https://<project-id>.firebaseio.com",
+            "storageBucket": "<project-id>.appspot.com"
+    }
+}

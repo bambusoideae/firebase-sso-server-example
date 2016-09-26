@@ -1,0 +1,6 @@
+{
+    "clients": [
+        "https://example.com",
+        "http://localhost"
+    ]
+}

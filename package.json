@@ -1,0 +1,37 @@
+{
+  "name": "sso-server",
+  "version": "0.0.0",
+  "description": "Single Sign-On server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/bambusoideae/sso-server.git"
+  },
+  "keywords": [
+    "sso",
+    "Single",
+    "Sign-On",
+    "firebase",
+    "oauth",
+    "openid"
+  ],
+  "author": "bambusoideae",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/bambusoideae/sso-server/issues"
+  },
+  "homepage": "https://gitlab.com/bambusoideae/sso-server#README",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "bunyan": "^1.8.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "morgan": "^1.7.0",
+    "multer": "^1.2.0",
+    "pug": "^2.0.0-beta6",
+    "serve-favicon": "^2.3.0"
+  }
+}
